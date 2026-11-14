@@ -91,7 +91,7 @@ Zeenatudeen Yusuf - Team Lead & Lead Software Engineer (Architecture, Frontend, 
 
 Olawuyi Ifeoluwa - UI/UX & Accessibility Lead
 
-Emmanuel Effiong - Data & Research Analyst
+Emmanuel Effiong - Software Engineer (Web, Mobile, ML and Blockchain)
 
 Caleb Ahmed Sadah - Presentation & Storytelling
 
