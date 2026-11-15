@@ -87,7 +87,7 @@ NASA Black Marble (Night Lights)
 GEOS Aerosols Model
 
 The SonicSpace Team (Abuja)
-Zeenatudeen Yusuf - Team Lead & Lead Software Engineer (Architecture, Frontend, Audio Engine)
+Zeenatudeen Yusuf - Team Lead & Lead Software Engineer (Architecture, Frontend, Audio Engine, ML, AI Automation, Computer Vision)
 
 Olawuyi Ifeoluwa - UI/UX & Accessibility Lead
 
