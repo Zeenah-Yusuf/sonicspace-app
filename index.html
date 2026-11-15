@@ -2,12 +2,19 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <script type="module">
+      import RefreshRuntime from "/@react-refresh";
+      RefreshRuntime.injectIntoGlobalHook(window);
+      window.$RefreshReg$ = () => {};
+      window.$RefreshSig$ = () => (type) => type;
+      window.__vite_plugin_react_preamble_installed__ = true;
+    </script>
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>SonicSpace | NASA Earth Data Sonification</title>
-    <meta name="description" content="Experience NASA Earth observation data through sound. An accessible, multi-sensory platform for exploring our changing planet." />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Experience NASA Earth observation visualizations through sound, with captions and data tables for blind and low-vision users." />
+    <title>SonicSpace: Hear the planet change</title>
   </head>
-  <body>
+  <body class="bg-[#0a0a0a] text-zinc-100 antialiased">
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
   </body>
